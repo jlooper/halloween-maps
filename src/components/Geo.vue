@@ -51,7 +51,7 @@ export default {
         //Add the polygon and line the symbol layer to the map.
         self.map.layers.add(symbolLayer);
         var popupTemplate =
-          '<div style="padding:10px;color:white;font-size:11pt;font-weight:bold">{clue}<br/>{sitename}<br/>{refShort}</div>';
+          '<div style="padding:10px;color:white;font-size:11pt;font-weight:bold">{clue}<br/>{sitename}<br/>{refShort}<br/>{time}</div>';
 
         //Create a popup but leave it closed so we can update it and display it later.
         let popup = new atlas.Popup({
@@ -69,7 +69,8 @@ export default {
             content = popupTemplate
               .replace(/{clue}/g, properties.clue)
               .replace(/{sitename}/g, properties.sitename)
-              .replace(/{refShort}/g, properties.refShort);
+              .replace(/{refShort}/g, properties.refShort)
+              .replace(/{time}/g, properties.time);
             coordinate = e.shapes[0].getCoordinates();
 
             popup.setOptions({

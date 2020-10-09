@@ -10,7 +10,21 @@
 			"properties": {
 				"clue": "Look for two stone birds",
 				"sitename": "Looper Hu Household",
-				"refShort": "18 Eaton Court"
+				"refShort": "18 Eaton Court",
+				"time": "6-9pm"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.2834818, 42.3126688]
+			},
+			"properties": {
+				"clue": "Look for the haunted archway",
+				"sitename": "Agush Household",
+				"refShort": "41 Sawyer Road",
+				"time": "6-9pm"
 			}
 		}
 	]
