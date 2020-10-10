@@ -96,7 +96,7 @@ export default {
 
 <style scoped>
 #myMap {
-  height: 75vh;
+  height: 100vh;
   width: 100vw;
 }
 </style>

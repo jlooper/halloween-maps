@@ -11,7 +11,7 @@
 				"clue": "Look for two stone birds",
 				"sitename": "Looper Hu Household",
 				"refShort": "18 Eaton Court",
-				"time": "6-9pm"
+				"time": "5-9pm"
 			}
 		},
 		{
@@ -25,6 +25,19 @@
 				"sitename": "Agush Household",
 				"refShort": "41 Sawyer Road",
 				"time": "6-9pm"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.2885, 42.29786]
+			},
+			"properties": {
+				"clue": "Look at that - under the bat!",
+				"sitename": "Antonelli Household",
+				"refShort": "10 Wellesley Ave",
+				"time": "4-7pm"
 			}
 		}
 	]
