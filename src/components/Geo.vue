@@ -18,7 +18,7 @@ export default {
   name: "app",
   data: () => ({
     map: null,
-    zoom: 15,
+    zoom: 13,
     center: [-71.2757724, 42.3123219],
   }),
   methods: {
