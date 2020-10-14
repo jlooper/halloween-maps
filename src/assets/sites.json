@@ -39,6 +39,19 @@
 				"refShort": "10 Wellesley Ave",
 				"time": "4-7pm"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.28287, 42.31527]
+			},
+			"properties": {
+				"clue": "Look for the Swamp Monster!",
+				"sitename": "Desmond Household",
+				"refShort": "20 Hawthorne Road",
+				"time": "5-8pm"
+			}
 		}
 	]
 }
