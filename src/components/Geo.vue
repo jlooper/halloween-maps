@@ -13,23 +13,24 @@
 <script>
 import * as atlas from "azure-maps-control";
 import data from "@/assets/sites.json";
-
+import axios from "axios";
 export default {
   name: "app",
   data: () => ({
     map: null,
     zoom: 13,
     center: [-71.2757724, 42.3123219],
+    subKey: null,
   }),
   methods: {
-    async initMap() {
+    async initMap(key) {
       this.map = new atlas.Map("myMap", {
         center: this.center,
         zoom: this.zoom,
         view: "Auto",
         authOptions: {
           authType: "subscriptionKey",
-          subscriptionKey: process.env["VUE_APP_MAP_KEY"],
+          subscriptionKey: key,
         },
       });
       await this.buildMap();
@@ -88,8 +89,16 @@ export default {
       });
     },
   },
-  mounted() {
-    this.initMap();
+  async mounted() {
+    try {
+      //get the key
+      const response = await axios.get("/api/getKey");
+      this.subKey = response.data;
+      //draw the map
+      this.initMap(this.subKey);
+    } catch (error) {
+      console.error(error);
+    }
   },
 };
 </script>
