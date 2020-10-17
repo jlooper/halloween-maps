@@ -52,6 +52,19 @@
 				"refShort": "20 Hawthorne Road",
 				"time": "5-8pm"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.25238, 42.30763]
+			},
+			"properties": {
+				"clue": "Near mailbox - front of driveway",
+				"sitename": "DiPietro Family",
+				"refShort": "20 Jackson Rd",
+				"time": "5-8pm"
+			}
 		}
 	]
 }
