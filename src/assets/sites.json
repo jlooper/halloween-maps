@@ -130,6 +130,19 @@
 				"refShort": "5 Colgate Road",
 				"time": "6-9pm"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.29883, 42.31841]
+			},
+			"properties": {
+				"clue": "The skeletons will welcome you to the candy cache!",
+				"sitename": "Patterson household",
+				"refShort": "60 Royalston Road",
+				"time": "5-8pm"
+			}
 		}
 	]
 }
