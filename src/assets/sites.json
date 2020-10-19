@@ -65,6 +65,71 @@
 				"refShort": "20 Jackson Rd",
 				"time": "5-8pm"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.28677, 42.3056]
+			},
+			"properties": {
+				"clue": "Surrounded by the skulls",
+				"sitename": "The Sawickis",
+				"refShort": "22 Alba Rd",
+				"time": "6-?pm"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.28325, 42.30762]
+			},
+			"properties": {
+				"clue": "Guarded by the skeleton dog!",
+				"sitename": "Gordon household",
+				"refShort": "54 Kirkland Circle",
+				"time": "5-7pm"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.25028, 42.30828]
+			},
+			"properties": {
+				"clue": "Here comes the witch!",
+				"sitename": "Medvinsky household",
+				"refShort": "25 Jefferson",
+				"time": "6-9pm"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.26713, 42.32118]
+			},
+			"properties": {
+				"clue": "Our front steps",
+				"sitename": "Snapper household",
+				"refShort": "38 Hillside Road",
+				"time": "6-8:30pm"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.28536, 42.28197]
+			},
+			"properties": {
+				"clue": "Front walkway",
+				"sitename": "Villalba household",
+				"refShort": "5 Colgate Road",
+				"time": "6-9pm"
+			}
 		}
 	]
 }
