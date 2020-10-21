@@ -156,6 +156,33 @@
 				"refShort": "180 Linden Street",
 				"time": "4-6pm"
 			}
+		},
+
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.2834, 42.30602]
+			},
+			"properties": {
+				"clue": "Visit the pumpkin patch and show us your spookiest look. Win a prize when you give us a fright.",
+				"sitename": "Code Ninjas Wellesley, Linden Square",
+				"refShort": "180 Linden Street",
+				"time": "4-6pm"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.32717, 42.31064]
+			},
+			"properties": {
+				"clue": "Look for the pumpkin at the bottom of the steps at the front door!",
+				"sitename": "Satgin Hamrah Residence",
+				"refShort": "428 Weston Road",
+				"time": "4-6pm"
+			}
 		}
 	]
 }
