@@ -143,6 +143,19 @@
 				"refShort": "60 Royalston Road",
 				"time": "5-8pm"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.2834, 42.30602]
+			},
+			"properties": {
+				"clue": "Visit the pumpkin patch and show us your spookiest look. Win a prize when you give us a fright.",
+				"sitename": "Code Ninjas Wellesley, Linden Square",
+				"refShort": "180 Linden Street",
+				"time": "4-6pm"
+			}
 		}
 	]
 }
