@@ -183,6 +183,19 @@
 				"refShort": "428 Weston Road",
 				"time": "4-6pm"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.26164, 42.32215]
+			},
+			"properties": {
+				"clue": "Front porch bowl/bucket",
+				"sitename": "Robi/Brown Residence",
+				"refShort": "20 Crescent Street",
+				"time": "6-9pm"
+			}
 		}
 	]
 }
