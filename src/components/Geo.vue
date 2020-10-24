@@ -3,8 +3,8 @@
     <div id="app">
       <h1>Let's Find Some Candy!</h1>
       <h2>
-        You can find candy caches at these locations in Wellesley. Follow the
-        clues and be safe!
+        You can find candy caches at these {{ getNumSites }} locations in
+        Wellesley. Follow the clues and be safe!
       </h2>
       <div id="myMap"></div>
     </div>
@@ -21,7 +21,13 @@ export default {
     zoom: 13,
     center: [-71.2757724, 42.3123219],
     subKey: null,
+    numSites: 0,
   }),
+  computed: {
+    getNumSites() {
+      return data.features.length;
+    },
+  },
   methods: {
     async initMap(key) {
       this.map = new atlas.Map("myMap", {
