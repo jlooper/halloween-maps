@@ -181,7 +181,7 @@
 				"clue": "Look for the pumpkin at the bottom of the steps at the front door!",
 				"sitename": "Satgin Hamrah Residence",
 				"refShort": "428 Weston Road",
-				"time": "4-6pm"
+				"time": "4-8pm"
 			}
 		},
 		{
@@ -195,6 +195,32 @@
 				"sitename": "Robi/Brown Residence",
 				"refShort": "20 Crescent Street",
 				"time": "6-9pm"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.30851, 42.29966]
+			},
+			"properties": {
+				"clue": "On the steps to the front door",
+				"sitename": "Wagner Residence",
+				"refShort": "24 Marshall Road",
+				"time": "6-9pm"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.29451, 42.28677]
+			},
+			"properties": {
+				"clue": "On a table on our walkway",
+				"sitename": "Holland Household",
+				"refShort": "90 Leighton Road",
+				"time": "5:30-8:30 pm"
 			}
 		}
 	]
