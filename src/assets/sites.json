@@ -222,6 +222,45 @@
 				"refShort": "90 Leighton Road",
 				"time": "5:30-8:30 pm"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.29077, 42.30494]
+			},
+			"properties": {
+				"clue": "Next to the stone lions that glow under the orange and purple lights!",
+				"sitename": "The Dunnes",
+				"refShort": "40 Calvin Road",
+				"time": "5-8pm"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.3115, 42.30593]
+			},
+			"properties": {
+				"clue": "Side entrance connected to the driveway...ring the bell",
+				"sitename": "Andrews Residence",
+				"refShort": "19 Cleveland Road",
+				"time": "5-10pm"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.28101, 42.3006]
+			},
+			"properties": {
+				"clue": "Check near the front steps and see what the skeleton has!",
+				"sitename": "Bubeck Family",
+				"refShort": "85 Twitchell Street",
+				"time": "6-8:30 pm"
+			}
 		}
 	]
 }
