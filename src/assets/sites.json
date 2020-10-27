@@ -11,7 +11,7 @@
 				"clue": "Look for two stone birds",
 				"sitename": "Looper Hu Household",
 				"refShort": "18 Eaton Court",
-				"time": "5-9pm"
+				"time": "6-8 pm"
 			}
 		},
 		{
@@ -24,7 +24,7 @@
 				"clue": "Look for the haunted archway",
 				"sitename": "Agush Household",
 				"refShort": "41 Sawyer Road",
-				"time": "6-9pm"
+				"time": "5-9pm"
 			}
 		},
 		{
@@ -260,6 +260,19 @@
 				"sitename": "Bubeck Family",
 				"refShort": "85 Twitchell Street",
 				"time": "6-8:30 pm"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.28716, 42.28233]
+			},
+			"properties": {
+				"clue": "Front door",
+				"sitename": "The Sprague's",
+				"refShort": "9 Pembroke Rd",
+				"time": "5:30-8:30 pm"
 			}
 		}
 	]
