@@ -274,6 +274,19 @@
 				"refShort": "9 Pembroke Rd",
 				"time": "5:30-8:30 pm"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.26357, 42.30372]
+			},
+			"properties": {
+				"clue": "At the tip top of the stairs/ non food treats available. ASL friendly!",
+				"sitename": "DER House",
+				"refShort": "38 Lincoln Rd",
+				"time": "5-8 pm"
+			}
 		}
 	]
 }
