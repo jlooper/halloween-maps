@@ -287,6 +287,32 @@
 				"refShort": "38 Lincoln Rd",
 				"time": "5-8 pm"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.29132, 42.30386]
+			},
+			"properties": {
+				"clue": "In front of the spider",
+				"sitename": "MacRostie Household",
+				"refShort": "38A Donizetti St",
+				"time": "6-8:30 pm"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.2755, 42.31235]
+			},
+			"properties": {
+				"clue": "Go to the door of the clock tower to start the hunt",
+				"sitename": "Isaac Sprague Memorial Clock Tower Scavenger Hunt",
+				"refShort": "307 Washington Street",
+				"time": "6-8:30 pm"
+			}
 		}
 	]
 }
