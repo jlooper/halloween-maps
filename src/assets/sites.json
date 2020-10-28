@@ -339,6 +339,19 @@
 				"refShort": "45 Forest Street",
 				"time": "6-9 pm"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.27873, 42.31006]
+			},
+			"properties": {
+				"clue": "Near the front door",
+				"sitename": "Betancour family",
+				"refShort": "19 Rockland Street",
+				"time": "6-9 pm"
+			}
 		}
 	]
 }
