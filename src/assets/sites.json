@@ -326,6 +326,19 @@
 				"refShort": "257 Oakland Street",
 				"time": "4-9 pm"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.27665, 42.3057]
+			},
+			"properties": {
+				"clue": "On the table at the end of the driveway",
+				"sitename": "Ohaegbulam Family",
+				"refShort": "45 Forest Street",
+				"time": "6-9 pm"
+			}
 		}
 	]
 }
