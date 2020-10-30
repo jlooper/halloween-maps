@@ -352,6 +352,19 @@
 				"refShort": "19 Rockland Street",
 				"time": "6-9 pm"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.27698, 42.30579]
+			},
+			"properties": {
+				"clue": "guarded by the giant spider!",
+				"sitename": "Gibby Household",
+				"refShort": "41 Forest Street",
+				"time": "6-9 pm"
+			}
 		}
 	]
 }
