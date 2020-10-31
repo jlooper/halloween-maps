@@ -365,6 +365,19 @@
 				"refShort": "41 Forest Street",
 				"time": "6-9 pm"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.30336, 42.31038]
+			},
+			"properties": {
+				"clue": "At the end of the candy chute",
+				"sitename": "Kwok Household",
+				"refShort": "72 Westgate Rd",
+				"time": "5-8:30pm"
+			}
 		}
 	]
 }
