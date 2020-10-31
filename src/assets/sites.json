@@ -388,8 +388,34 @@
 			"properties": {
 				"clue": "On the landing of the front steps",
 				"sitename": "Morley-Kenslea household",
-				"refShort": "20 Cedar St",
+				"refShort": "20 Cedar Street",
 				"time": "5-9pm"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.28466, 42.29803]
+			},
+			"properties": {
+				"clue": "In cauldron on front steps",
+				"sitename": "Koeninger-D'Anieri household",
+				"refShort": "2 Wilson Street",
+				"time": "5-9pm"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.29487, 42.28833]
+			},
+			"properties": {
+				"clue": "Purple Little Free Library, to right of driveway",
+				"sitename": "Morse family",
+				"refShort": "12 Roanoke Road",
+				"time": "1:00-9:00 (while supplies last)"
 			}
 		}
 	]
