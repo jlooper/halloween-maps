@@ -534,6 +534,19 @@
 				"refShort": "11 Pleasant Street",
 				"time": "5-8 pm"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.3137, 42.30662]
+			},
+			"properties": {
+				"clue": "Driveway entry",
+				"sitename": "Serper-tal household",
+				"refShort": "339 Weston Road",
+				"time": "6-9 pm"
+			}
 		}
 	]
 }
