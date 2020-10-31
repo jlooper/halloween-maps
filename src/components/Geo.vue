@@ -1,11 +1,14 @@
 <template>
   <main>
     <div id="app">
-      <h1>Let's Find Some Candy!</h1>
       <h2>
         You can find candy caches at these {{ getNumSites }} locations in
         Wellesley. Follow the clues and be safe!
       </h2>
+      <p>
+        Looking for a list of sites?
+        <router-link to="list">Check them out here</router-link>
+      </p>
       <div id="myMap"></div>
     </div>
   </main>

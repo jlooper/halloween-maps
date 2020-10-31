@@ -482,6 +482,19 @@
 				"refShort": "215 Cedar Street",
 				"time": "6-8 pm"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.27545, 42.30245]
+			},
+			"properties": {
+				"clue": "End of driveway",
+				"sitename": "Peta House",
+				"refShort": "30 Park Ave",
+				"time": "5:30-7:00 pm"
+			}
 		}
 	]
 }
