@@ -495,6 +495,45 @@
 				"refShort": "30 Park Ave",
 				"time": "5:30-7:00 pm"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.32559, 42.30662]
+			},
+			"properties": {
+				"clue": "Top of drive on table",
+				"sitename": "Hicks household",
+				"refShort": "7 Cedar Brook Road",
+				"time": "6-8 pm"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.30238, 42.31495]
+			},
+			"properties": {
+				"clue": "Driveway on a table",
+				"sitename": "Egan household",
+				"refShort": "12 Stanford Road",
+				"time": "6:00-*:8:30 or when it runs out"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.29536, 42.30064]
+			},
+			"properties": {
+				"clue": "In a bowl in front of house",
+				"sitename": "Spivak household",
+				"refShort": "11 Pleasant Street",
+				"time": "5-8 pm"
+			}
 		}
 	]
 }
