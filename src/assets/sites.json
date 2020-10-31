@@ -417,6 +417,19 @@
 				"refShort": "12 Roanoke Road",
 				"time": "1:00-9:00 (while supplies last)"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.31596, 42.31064]
+			},
+			"properties": {
+				"clue": "Front fence by the lights",
+				"sitename": "Bock-Gates Family",
+				"refShort": "151 Weston Road",
+				"time": "5:30-8:30 pm"
+			}
 		}
 	]
 }
