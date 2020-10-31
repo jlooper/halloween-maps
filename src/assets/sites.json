@@ -547,6 +547,19 @@
 				"refShort": "339 Weston Road",
 				"time": "6-9 pm"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.28503, 42.31453]
+			},
+			"properties": {
+				"clue": "Witches cauldron outside the front door",
+				"sitename": "Jha household",
+				"refShort": "44 Cypress Road",
+				"time": "6-9pm or until candy runs out"
+			}
 		}
 	]
 }
