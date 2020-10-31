@@ -430,6 +430,58 @@
 				"refShort": "151 Weston Road",
 				"time": "5:30-8:30 pm"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.31596, 42.31064]
+			},
+			"properties": {
+				"clue": "The ghosts have it at the end of the driveway. They have packed it up in little snack bags.",
+				"sitename": "Laing Household",
+				"refShort": "76 Pleasant Street",
+				"time": "5 till we run out"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.32427, 42.30959]
+			},
+			"properties": {
+				"clue": "Front door",
+				"sitename": "Ceprano/Sho/Stone",
+				"refShort": "95 Parker Road",
+				"time": "6-8 pm"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.28354, 42.31605]
+			},
+			"properties": {
+				"clue": "Grab and Go baggies on a table on the front walkway!",
+				"sitename": "Lawler Household",
+				"refShort": "11 Cypress Road",
+				"time": "5:30 - 9:00 pm"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.24411, 42.31041]
+			},
+			"properties": {
+				"clue": "Next to the mailbox and the inflatables",
+				"sitename": "Kapoor Household",
+				"refShort": "215 Cedar Street",
+				"time": "6-8 pm"
+			}
 		}
 	]
 }
