@@ -305,13 +305,13 @@
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [-71.2755, 42.31235]
+				"coordinates": [-71.30066, 42.29905]
 			},
 			"properties": {
-				"clue": "Go to the door of the clock tower to start the hunt",
-				"sitename": "Isaac Sprague Memorial Clock Tower Scavenger Hunt",
-				"refShort": "307 Washington Street",
-				"time": "6-8:30 pm"
+				"clue": "near the spooky lights",
+				"sitename": "Lindquist Household",
+				"refShort": "64 Curve Street",
+				"time": "5:30-8:00 pm"
 			}
 		},
 		{
