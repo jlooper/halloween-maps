@@ -2,7 +2,7 @@
 
 ## Project setup
 
-```CSS
+```
 npm install
 ```
 
