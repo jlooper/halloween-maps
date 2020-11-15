@@ -1,7 +1,8 @@
 # halloween-maps
 
 ## Project setup
-```
+
+```CSS
 npm install
 ```
 
